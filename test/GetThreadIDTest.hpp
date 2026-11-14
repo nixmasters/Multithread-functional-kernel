@@ -1,0 +1,13 @@
+//
+// Created by os on 3/1/26.
+//
+
+#ifndef NIX_PROJEKAT_GETTHREADIDTEST_HPP
+#define NIX_PROJEKAT_GETTHREADIDTEST_HPP
+
+
+class GetThreadIDTest {
+};
+
+
+#endif //NIX_PROJEKAT_GETTHREADIDTEST_HPP
